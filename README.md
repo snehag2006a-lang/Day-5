@@ -6,7 +6,7 @@ Assignment Details
 
 - Course: Python with Pandas
 - Topic: Selecting Columns by Data Type
-- Student Name: Your Name
+- Student Name: G.Sneha
 - Assignment No: 1
 - Date: May 2026
 
